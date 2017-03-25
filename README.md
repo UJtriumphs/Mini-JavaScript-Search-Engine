@@ -1,4 +1,4 @@
-## It is basically the impelementation of Elastic Search.
+## It is basically the implementation of Elastic Search.
 Elasticsearch is built on top of Apache Lucene, which is a high performance text search engine library. Although Elasticsearch can perform the storage and retrieval of data, its main purpose is not to serve as a database, rather it is a search engine (server) with the main goal of indexing, searching, and providing real-time statistics on the data.
 
 Elasticsearch has a distributed architecture that allows horizontal scaling by adding more nodes and taking advantage of the extra hardware. It supports thousands of nodes for processing petabytes(PB) of data. Its horizontal scaling also means that it has a high availability by rebalancing the data if ever any nodes fail.
